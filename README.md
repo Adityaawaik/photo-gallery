@@ -2,6 +2,18 @@
 
 # <a href='https://adityaawaik.github.io/photo-gallery/'> Photo Gallery </a>
 
+A React application that fetches photos using an API and allows users to favourite images.
+
+## Features
+- Search photos
+- Favourite system using useReducer
+- Data persistence with localStorage
+
+## Tech Stack
+- React
+- TailwindCSS
+- Unsplash API
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
